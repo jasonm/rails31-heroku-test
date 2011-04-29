@@ -115,6 +115,7 @@ GEM
       rake (>= 0.8.7)
     gherkin (2.3.6)
       json (>= 1.4.6)
+    high_voltage (0.9.4)
     hike (0.7.1)
     i18n (0.6.0beta1)
     json (1.5.1)
@@ -198,6 +199,7 @@ DEPENDENCIES
   cucumber-rails
   database_cleaner
   factory_girl_rails
+  high_voltage
   rack!
   rails!
   rspec-rails

@@ -4,9 +4,10 @@ gem 'rails',     :path => '/Users/jasonmorrison/dev/rails'
 gem 'arel',      :git => 'git://github.com/rails/arel.git'
 gem 'rack',      :git => 'git://github.com/rack/rack.git'
 gem 'sprockets', :git => 'git://github.com/sstephenson/sprockets.git'
-
 gem 'sqlite3'
 gem 'thin'
+
+gem 'high_voltage'
 
 # Asset template engines
 gem 'sass'
